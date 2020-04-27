@@ -1,0 +1,23 @@
+{
+  "name": "stringcalckata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikomanz/StringCalcKata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikomanz/StringCalcKata/issues"
+  },
+  "homepage": "https://github.com/rikomanz/StringCalcKata#readme",
+  "dependencies": {
+    "jest": "^25.4.0",
+    "save-dev": "0.0.1-security"
+  }
+}
